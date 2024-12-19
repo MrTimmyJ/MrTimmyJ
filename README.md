@@ -1,6 +1,10 @@
 <h2 align="center">Hello there! My name is Timothy Johnson. 👋</h2>
-<p align="center">I recently graduated with a Bachelor of Science studying Computer Engineering at Evergreen State College :student:. I'm passionate about UX/UI, managing large data sets, virtualization, and large software systems :man_technologist:.</p>
+<p align="center">I recently graduated with a Bachelor of Science studying Computer Engineering at Evergreen State College :student:.</p>
+<p align="center">I'm passionate about UX/UI, managing large data sets, virtualization, and large software systems :man_technologist:.</p>
 <p align="center">When I'm not developing software, you can find me watching movies or TV shows, enjoying nature, or listening to music.</p>
+<p align="center">Connect with me on LinkedIn! [LinkedIn](https://www.linkedin.com/in/timmyjtech/) </p>
+<p align="center">Check out my project portfolio [TimmyJTech](https://timmyjtech.netlify.app/) </p>
+<p align="center">I also love taking pictures of the PNW too! [TimmyJPhotography](https://timmyjphotography.netlify.app/) </p>
 
 <p align=center>
   <a href="https://github.com/MrTimmyJ">
