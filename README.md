@@ -2,10 +2,21 @@
 <p align="center">I recently graduated with a Bachelor of Science studying Computer Engineering at Evergreen State College :student:.</p>
 <p align="center">I'm passionate about UX/UI, managing large data sets, virtualization, and large software systems :man_technologist:.</p>
 <p align="center">When I'm not developing software, you can find me watching movies or TV shows, enjoying nature, or listening to music.</p>
-<p align="center">Connect with me on LinkedIn! [LinkedIn](https://www.linkedin.com/in/timmyjtech/) </p>
-<p align="center">Check out my project portfolio [TimmyJTech](https://timmyjtech.netlify.app/) </p>
-<p align="center">I also love taking pictures of the PNW too! [TimmyJPhotography](https://timmyjphotography.netlify.app/) </p>
 
+<div align="center" style=n=>
+  <a href="https://www.linkedin.com/in/timmyjtech/" target="_blank">LinkedIn</a>
+</div>
+
+<div align="center">
+  <a href="https://timmyjtech.netlify.app/" target="_blank">Portfolio</a>
+</div>
+
+<div align="center">
+  <a href="https://timmyjphotography.netlify.app/" target="_blank">Pictures</a>
+</div>
+
+---
+  
 <p align=center>
   <a href="https://github.com/MrTimmyJ">
     <img src="https://badges.pufler.dev/visits/MrTimmyJ/MrTimmyJ?style=flat-square&color=black&logo=github">
