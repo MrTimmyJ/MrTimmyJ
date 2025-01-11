@@ -1,5 +1,5 @@
 <h2 align="center">Hello there! My name is Timothy Johnson. 👋</h2>
-<p align="center">I recently graduated with a Bachelor of Science studying Computer Engineering at Evergreen State College :student:.</p>
+<p align="center">I recently graduated with a Bachelor of Science studying Computer Science at Evergreen State College :student:.</p>
 <p align="center">I'm passionate about UX/UI, managing large data sets, virtualization, and large software systems :man_technologist:.</p>
 <p align="center">When I'm not developing software, you can find me watching movies or TV shows, enjoying nature, or listening to music.</p>
 
