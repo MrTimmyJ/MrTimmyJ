@@ -4,11 +4,11 @@
 <p align="center">When I'm not developing software, you can find me watching movies or TV shows, enjoying nature, or listening to music.</p>
 
 <div align="center" style=n=>
-  <a href="https://www.linkedin.com/in/timmyjtech/" target="_blank">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/mrtimmyj/" target="_blank">LinkedIn</a>
 </div>
 
 <div align="center">
-  <a href="https://timmyjtech.netlify.app/" target="_blank">Portfolio</a>
+  <a href="https://mrtimmyj.netlify.app/" target="_blank">Portfolio</a>
 </div>
 
 <div align="center">
