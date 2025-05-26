@@ -35,11 +35,15 @@
   <img src="https://img.shields.io/badge/C-grey">
   <img src="https://img.shields.io/badge/C-Sharp-grey">
   <img src="https://img.shields.io/badge/Python-grey">
-  <img src="https://img.shields.io/badge/HTML/CSS/JavaScript-grey">
-  <img src="https://img.shields.io/badge/SQL-grey">
-  <img src="https://img.shields.io/badge/Visual-Basic-grey">
-  <img src="https://img.shields.io/badge/GDScript-grey">
   <img src="https://img.shields.io/badge/Rust-grey"> 
+  <img src="https://img.shields.io/badge/Visual Basic-grey">
+  <img src="https://img.shields.io/badge/HTML-grey">
+  <img src="https://img.shields.io/badge/CSS-grey">
+  <img src="https://img.shields.io/badge/JavaScript-grey">
+  <img src="https://img.shields.io/badge/SQL-grey">
+  <img src="https://img.shields.io/badge/JSON-grey"> 
+  <img src="https://img.shields.io/badge/Bash-grey">
+  <img src="https://img.shields.io/badge/GDScript-grey">
 </p>
 
 <!--p align=center>  
